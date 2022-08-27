@@ -1,2 +1,4 @@
-# React_Native_Intitial_Cofig
-Proyecto React Native Configuracion Inicial
+# React_Native_Initial_Config
+## Proyecto React Native Configuración Inicial
+ - Stack Navigator
+ - StackVector Icons
